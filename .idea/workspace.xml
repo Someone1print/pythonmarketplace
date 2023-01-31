@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3729cfda-040e-4460-a728-3cac728f84be" name="Changes" comment="'products'">
+    <list default="true" id="3729cfda-040e-4460-a728-3cac728f84be" name="Changes" comment="&quot;deff&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pythonmarketplace/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonmarketplace/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonmarketplace/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonmarketplace/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="pythonmarketplace.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -84,9 +85,29 @@
       <updated>1675078188556</updated>
       <workItem from="1675078189752" duration="297000" />
     </task>
+    <task id="LOCAL-00001" summary="deff">
+      <created>1675080836836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675080836836</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;deff&quot;">
+      <created>1675080907504</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675080907504</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="deff" />
+    <MESSAGE value="&quot;deff&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;deff&quot;" />
   </component>
 </project>
